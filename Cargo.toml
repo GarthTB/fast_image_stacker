@@ -2,5 +2,14 @@
 name = "fast_image_stacker"
 version = "0.1.0"
 edition = "2024"
+authors = ["GarthTB <g-art-h@outlook.com>"]
+description = "A Rust tool for stacking images quickly."
+repository = "https://github.com/GarthTB/fast_image_stacker"
+readme = "README.md"
+keywords = ["image", "stacking", "processing", "astrophotography"]
+categories = ["multimedia::images"]
+license = "Apache-2.0"
 
 [dependencies]
+image = "0.25.6"
+rayon = "1.10.0"
