@@ -1,6 +1,6 @@
 # Fast Image Stacker 🖼
 
-[![Rust](https://img.shields.io/badge/Built%20with-Rust-brown)](https://www.rust-lang.org/zh-CN/)
+[![Rust](https://img.shields.io/badge/Built%20with-Rust-brown)](https://www.rust-lang.org)
 [![Version](https://img.shields.io/badge/Latest%20Release-0.1.0-brightgreen)](https://github.com/GarthTB/fast_image_stacker/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://www.apache.org/licenses/LICENSE-2.0)
 
