@@ -3,7 +3,7 @@ mod image_stacker;
 
 fn main() {
     println!("Welcome to Fast Image Stacker!");
-    println!("Version 0.1.0 (2025-04-11)");
+    println!("Version 0.1.0 (20250411)");
     println!("Author: GarthTB <g-art-h@outlook.com>");
     println!("Repo: https://github.com/GarthTB/fast_image_stacker");
 
